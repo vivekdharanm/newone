@@ -23,20 +23,20 @@ public class MyCollections
 			onelist.add(result);
 		}
 		
-//		System.out.println("Random Entries:");
-//		
-//		for(String j:onelist)
-//		{
-//			System.out.println(j);
-//		}
+		System.out.println("Random Entries:");
 		
-//		Iterator<String> l = onelist.iterator();
-//		
-//		System.out.println("Using iterator");
-//		System.out.println(l.next());
-//		
-//		
-		//sSystem.out.println(onelist);
+		for(String j:onelist)
+		{
+			System.out.println(j);
+		}
+		
+	Iterator<String> l = onelist.iterator();
+		
+		System.out.println("Using iterator");
+		System.out.println(l.next());
+		
+		
+		sSystem.out.println(onelist);
 	}
 
 }
