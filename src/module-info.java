@@ -1,8 +1,2 @@
-/**
- * 
- */
-/**
- * 
- */
 module bus_reservation {
 }
